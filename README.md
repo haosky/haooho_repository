@@ -31,10 +31,7 @@ ctrl+d
 ```
 打开浏览器 ，输入地址
 http://127.0.0.1:8367/
-
-![屏幕截图 2024-05-08 163759](https://github.com/haosky/haooho_repository/assets/11640774/69e3a1ce-9165-4444-a51b-57677bda35ac)
-![屏幕截图 2024-05-08 163841](https://github.com/haosky/haooho_repository/assets/11640774/c7cd8ad9-e4fc-4ff0-9063-3e70cf2bdb85)
-
-
-
 ```
+
+![csdfsdf](https://github.com/haosky/haooho_repository/assets/11640774/248d1561-dab9-4570-a3e2-aa23c15f6b43)
+![dddd](https://github.com/haosky/haooho_repository/assets/11640774/35b76950-51b8-44f9-8223-173aefd7424f)
